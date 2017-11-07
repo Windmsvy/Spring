@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.spring.tutorial.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.13 sec - in com.spring.tutorial.service.UserServiceTest
